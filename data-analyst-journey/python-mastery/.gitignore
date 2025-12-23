@@ -1,0 +1,13 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Very important!)
+venv/
+env/
+.env
+
+# Spyder/PyCharm/VS Code project settings
+.vscode/
+.idea/
